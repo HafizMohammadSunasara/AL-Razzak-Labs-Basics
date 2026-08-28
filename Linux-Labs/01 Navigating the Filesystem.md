@@ -1,6 +1,7 @@
 # Lab 01: Navigating the Filesystem
 ## Objective
 Learn how to navigate and explore the Linux filesystem using basic command line tools.
+
 ##Commands Used
 
 pwd
